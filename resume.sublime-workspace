@@ -1,0 +1,1095 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"online",
+				"onlineCourse"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"sec",
+				"secondName"
+			],
+			[
+				"firstName",
+				"firstNameFirstLetter"
+			],
+			[
+				"first",
+				"firstName"
+			],
+			[
+				"dis",
+				"displayHeader"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"cut",
+				"cutting-line2"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"product-de",
+				"product-description"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"modal-",
+				"modal-body"
+			],
+			[
+				"modal",
+				"modal-faq"
+			],
+			[
+				"moda",
+				"modal-agb"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"ca",
+				"cart-page"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"dropd",
+				"dropdown-menu"
+			],
+			[
+				"acco",
+				"accordion-trigger"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"reply",
+				"reply-title"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"entry",
+				"entry-content"
+			],
+			[
+				"comments",
+				"comments-link"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"nav",
+				"navbar-header"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"pr",
+				"printable"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"blo",
+				"blog-index"
+			],
+			[
+				"sect",
+				"section-header"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"col-md",
+				"col-md-3"
+			],
+			[
+				"tex-",
+				"text-indent"
+			],
+			[
+				"colla",
+				"collapse"
+			],
+			[
+				"has",
+				"hasClass"
+			],
+			[
+				"panel",
+				"panel-group"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"pd",
+				"pdp-title"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"col",
+				"col-lg-4"
+			],
+			[
+				"ju",
+				"jumbotron"
+			],
+			[
+				"jum",
+				"jumbotron2"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"bekl",
+				"bekleidung_accessoires_subcategory"
+			],
+			[
+				"jso",
+				"json_product"
+			],
+			[
+				"js",
+				"json_product"
+			],
+			[
+				"dropdown",
+				"dropdown-menus"
+			],
+			[
+				"lang",
+				"language"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"as",
+				"aside"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"lange",
+				"language-zh"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"emp",
+				"empty"
+			],
+			[
+				"prod",
+				"prodPage"
+			],
+			[
+				"cartAdd",
+				"cartAddQuantity"
+			],
+			[
+				"get",
+				"getNewCartValue"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"cart",
+				"cartEuro"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"F",
+				"F0F0F0"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"new",
+				"new_gridView"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"a",
+				"ausruestung"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"ri",
+				"ribbon"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"m",
+				"meta	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4963,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/helper.js",
+			"settings":
+			{
+				"buffer_size": 8680,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/resumeBuilder.js",
+			"settings":
+			{
+				"buffer_size": 9009,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 5939,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 2693,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 160.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"smarty",
+				"Set Syntax: Smarty"
+			],
+			[
+				"html	",
+				"Set Syntax: HTML"
+			],
+			[
+				"txt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"liqui",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tobi/Desktop/Project-Part-1-Start/images_src/fixed/smiley_face.png",
+		"/Users/tobi/Desktop/Project-Part-1-Start/images_src/fixed/flourish.png",
+		"/Users/tobi/Desktop/Project-Part-1-Start/package.json",
+		"/Users/tobi/Desktop/Project-Part-1-Start/Gruntfile.js",
+		"/Users/tobi/Desktop/Project-Part-1-Start/README.md",
+		"/Users/tobi/Desktop/Widerrufsrecht_de.html",
+		"/Users/tobi/Dropbox/shopwareResponsiveAir/templates/emotion_babyssimo/frontend/listing/listing.tpl",
+		"/Users/tobi/Dropbox/shopwareResponsiveAir/templates/emotion_babyssimo/frontend/listing/index.tpl",
+		"/Users/tobi/Dropbox/shopwareResponsiveAir/templates/emotion_babyssimo/frontend/search/index.tpl",
+		"/Users/tobi/Dropbox/Babyssimo/Tobi/sublime_babyssimo-pp/pp-babyssimo-10660487/assets/checkout.css",
+		"/Users/tobi/Dropbox/Babyssimo/Tobi/sublime_babyssimo-pp/pp-babyssimo-10660487/templates/product.liquid",
+		"/Users/tobi/Dropbox/Babyssimo/Tobi/sublime_babyssimo-pp/pp-babyssimo-10660487/layout/themeCopy.liquid",
+		"/Users/tobi/Dropbox/Babyssimo/Tobi/sublime_babyssimo-pp/pp-babyssimo-10660487/assets/checkout.scss.liquid",
+		"/Users/tobi/Dropbox/riemenschneiderei-shopify_PP/pp-riemenschneiderei-10258003/assets/style.css",
+		"/Users/tobi/Dropbox/riemenschneiderei_shopify/riemenschneiderei-8751563/assets/style.css",
+		"/Users/tobi/Dropbox/riemenschneiderei_shopify/riemenschneiderei-8751563/assets/Hyphenator2.js",
+		"/Users/tobi/Dropbox/riemenschneiderei_shopify/riemenschneiderei-8751563/assets/Hyphenator.js",
+		"/Users/tobi/Dropbox/riemenschneiderei_shopify/riemenschneiderei-8751563/snippets/pin.liquid",
+		"/Users/tobi/Dropbox/riemenschneiderei_shopify/riemenschneiderei-8751563/snippets/like.liquid",
+		"/Users/tobi/Dropbox/riemenschneiderei_shopify/riemenschneiderei-8751563/snippets/social-links.liquid",
+		"/Users/tobi/Desktop/product_original.liquid",
+		"/Users/tobi/Desktop/skeleton-theme-master/templates/product.liquid",
+		"/Users/tobi/Dropbox/riemenschneiderei_shopify/riemenschneiderei-8751563/assets/style.scss",
+		"/Users/tobi/Desktop/skeleton-theme-master/layout/theme.liquid",
+		"/Users/tobi/Dropbox/riemenschneiderei_shopify/riemenschneiderei-8751563/snippets/twitter-card.liquid",
+		"/Users/tobi/Dropbox/riemenschneiderei_shopify/riemenschneiderei-8751563/snippets/open-graph-tags.liquid",
+		"/Users/tobi/Dropbox/riemenschneiderei_shopify/riemenschneiderei-8751563/assets/shop.js.liquid",
+		"/Users/tobi/Dropbox/riemenschneiderei_shopify/riemenschneiderei-8751563/assets/style.scss.liquid",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/page-projects_streit.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/page-projects_sms.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/author.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/page-klassen.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/index.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/page-about.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/header.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/page-team.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/sidebar.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/footer.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/single.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/sftp-config.json",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/style.css",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/index.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/header.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/sidebar.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/entry-meta.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme v2/functions.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/plugins/google-calendar-events/inc/php-calendar.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/functions.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/page-projects.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/page-about.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/sftp-config.json",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/single.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/page.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/page-team.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/header-about.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/nav-below-single.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/entry.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-config.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/blankslate/sidebar.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/nav-below.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/login.css",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/comments.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/entry-meta.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/languages/de_DE.po",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-includes/comment-template.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-includes/comment.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/languages/continents-cities-de_DE.po",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/languages/themes/twentytwelve-de_DE.po",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/languages/de_DE.po",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/languages/de_DE.mo",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-comments-post.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme/entry-footer.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/twentyfourteen/index.php",
+		"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/twentyfourteen/content.php",
+		"/Users/tobi/Dropbox/WEB-LEARNING/2013-09/02-PHP-Lynda/index.php",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/page/1column.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/page/2columns-right.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/page/3columns.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/catalog/product/view.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/catalog/category/view.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/catalog/product/list.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/catalog/product/view/media.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/catalog/product/view/description.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/catalog/product/list_home.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/layout/local.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/layout/page.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/skin/frontend/riemenschneiderei/default/js/script.js",
+		"/Users/tobi/Dropbox/riemenschneiderei/js/prototype/prototype.js",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/layout/checkout.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/page/html/footer.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/checkout/cart.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/checkout/cart/item/default.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/checkout/cart/totals.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/page/html/header.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/riemenschneiderei/default/template/page/html/head.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/skin/frontend/riemenschneiderei/default/js/bootstrap.js",
+		"/Users/tobi/Desktop/home_source.html",
+		"/Users/tobi/Dropbox/riemenschneiderei/lib/Zend/Currency/CurrencyInterface.php",
+		"/Users/tobi/Dropbox/riemenschneiderei/lib/Zend/Locale/Data/de_CH.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/layout/paypaluk.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/layout/paypal.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/lib/Zend/Locale/Data/de_DE.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/lib/Zend/Locale/Data/eu.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/lib/Zend/Locale/Data/de_LI.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/template/checkout/cart/item/default.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/layout/productalert.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/layout/reports.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/layout/customer.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/layout/catalog.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/layout/page.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/template/catalog/product/view/description.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/layout/core.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/template/catalog/category/view.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/layout/newsletter.xml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/template/catalog/product/list.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/template/catalog/product/view.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/template/checkout/cart/sidebar.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/template/page/html/topmenu.phtml",
+		"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base/default/template/catalog/product/list/toolbar.phtml",
+		"/Users/tobi/Dropbox/KarenRiemenschneider.com/kontakt/index.html",
+		"/Users/tobi/Dropbox/Babyssimo_responsive/babyssimo-responsive.sublime-project",
+		"/Users/tobi/Desktop/dms/index.html",
+		"/Users/tobi/Desktop/dms/profil/index.html",
+		"/Users/tobi/Dropbox/Babyssimo_responsive/babyssimo-responsive-6957789/layout/theme.liquid",
+		"/Users/tobi/Downloads/noisy-texture-100x100-o3-d10-c-575757-t0.png",
+		"/Users/tobi/Dropbox/Babyssimo/Tobi/sublime_babyssimo-live/babyssimo-3567796/assets/style.css",
+		"/Users/tobi/Dropbox/Babyssimo/Tobi/sublime_babyssimo-live/babyssimo-3567796/layout/theme.liquid",
+		"/Users/tobi/Dropbox/Babyssimo_responsive/babyssimo-responsive-6957789/assets/shop.js.liquid"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/tobi/Dropbox/shopwareResponsive/templates/emotion_babyssimo/frontend/index",
+			"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme,/Users/tobi/Dropbox/Schule/wordpress-install",
+			"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme",
+			"/Users/tobi/Dropbox/Schule/wordpress-install",
+			"/Users/tobi/Dropbox/Schule/wordpress-install/wp-content/themes/Rochus Theme",
+			"/Users/tobi/Dropbox/riemenschneiderei",
+			"/Users/tobi/Dropbox/riemenschneiderei/app/design/frontend/base",
+			"/Users/tobi/Desktop/dms",
+			"/Users/tobi/Dropbox/Babyssimo/Tobi/sublime_babyssimo-live",
+			"/Users/tobi/Dropbox/Babyssimo/Tobi/sublime_babyssimo-live/babyssimo-3567796"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"flex-item",
+			"bio",
+			"topContacts",
+			"h1",
+			"flex-item",
+			"images",
+			"images_src",
+			"frontend_listing_actions_top",
+			"paging.tpl",
+			"110429439091120",
+			".paymentOptions",
+			"paymentOptions",
+			"#Cart",
+			"#Confirmation / Finish",
+			"banner",
+			"440",
+			"categoryBox",
+			"scroll",
+			"newsletter-banner",
+			"banner",
+			"santa",
+			"logo",
+			"logo_EN",
+			"logo_DE",
+			"newsletter",
+			"div.index_bottom-row div.index_bottom-row_left p.quote {",
+			"faq",
+			"return",
+			"customer1",
+			"index",
+			"class=\"hidden",
+			"index",
+			"#cutting-line_index2",
+			"min-height",
+			"index",
+			"cutting",
+			"returns",
+			"logo",
+			"index",
+			"cutt",
+			"footer",
+			"contact",
+			"zurueck",
+			"noindex",
+			"impressum",
+			"ipressum",
+			"hyphenator",
+			"#cancel-purchase",
+			"cancel-purchase",
+			"cart",
+			"additional-checkout-buttons",
+			"returns",
+			"faq",
+			"returns",
+			"formual",
+			"header-nav",
+			"gleft",
+			"pdp",
+			"hyphe",
+			"checkout",
+			"cart",
+			"browse-all",
+			"modals",
+			"impressum",
+			"free",
+			"modal",
+			"impressum",
+			"#free-shipping",
+			"	.cart-page #cart_below-table h4 #free-shipping",
+			"pdp",
+			"index",
+			"indec",
+			"index",
+			"typekit",
+			"<script type=\"text/javascript\" src=\"//use.typekit.net/may3heh.js\"></script>\n<script type=\"text/javascript\">try{Typekit.load();}catch(e){}</script>",
+			"index",
+			"header",
+			"index",
+			"header",
+			"index",
+			"flexslider",
+			".selector-wrapper",
+			"&shy;",
+			"inner-footer",
+			"footer",
+			"browse-all",
+			"}\n",
+			"cart",
+			"index_grid-item_title",
+			"cart",
+			"awesome",
+			"awsome",
+			"('#nav ul a').removeClass",
+			"removeClass",
+			"heart",
+			"accordian",
+			"box-shadow",
+			"loading...",
+			"cite",
+			"forward",
+			"ö",
+			"ü",
+			"ä",
+			"ü",
+			"ö",
+			".kontakt",
+			"sm",
+			"md",
+			"200",
+			"Nächste Seite",
+			"Seite",
+			"gce-change-month",
+			"Events on ",
+			"E-Mail",
+			"Website",
+			"Hinterlasse eine Antwort",
+			"Kommentar",
+			"Gedanke",
+			"Kommentar",
+			"Kommentar\nKommentar",
+			"Kommentar\nKommentar\nKommentar\nKommentar\nKommentar\nKommentar\nKommentar",
+			"Kommentar\nKommentar\nKommentar\nKommentar\nKommentar\nKommentar\nKommantar",
+			"container",
+			"class=\"container\"",
+			"Billing Information",
+			"Shopping Cart is Empty",
+			"proceed to checkout",
+			"Checkout as a Guest or Register"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"images_src/images",
+			"images",
+			"",
+			"&ouml;",
+			"&uuml;",
+			"&auml;",
+			"&uuml;",
+			"&ouml;",
+			"jQuery.",
+			"jQuery(",
+			"jquery(",
+			"file:///Users/tobi/Desktop/dms/index.html",
+			"file:///Users/tobi/Desktop/",
+			"&uuml;",
+			" ",
+			"&auml;",
+			"&uuml;",
+			"ü",
+			"jumbotron",
+			".jumbotron",
+			".content",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1677,
+								1677
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 817.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/helper.js",
+					"settings":
+					{
+						"buffer_size": 8680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2932,
+								2945
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/resumeBuilder.js",
+					"settings":
+					{
+						"buffer_size": 9009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8904,
+								8904
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 5939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2121,
+								2121
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 2693,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2691,
+								2691
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 130.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true
+}
